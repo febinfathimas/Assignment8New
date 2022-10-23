@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    width: 730px;
+
+    
+}
+main {
+    padding: 0 2em 1em;
+    margin-top: 50px;
+    margin-left: 50px;
+    align-items: center;
+   
+}
+h1 {
+    font-size: 150%;
+}
+h2 {
+    font-size: 120%;
+}
+input[type="text"], select {
+    width: 20em;
+    padding: 5px 0;
+    margin-left: 30px;
+    margin-bottom: 1em;
+    border-color: cornflowerblue;   
+}
+
+#msg1,#msg2,#msg3{
+    color: red;
+}
+
+
+#empName{
+    margin-left: 60px;
+}
+
+#empTitle{
+    margin-left: 70px;
+}
+
+
+input[type="button"] {
+    margin-top:10px;
+     margin-left: 350px;
+     background-color:cornflowerblue;
+}
+.btndelete{
+    background-color: cornflowerblue;
+    margin-left: 30px; 
+}
+th{
+    background-color: cornflowerblue;
+}
+tr{
+    height: 30px;
+}
+
+td
+{
+  background-color:lightblue;
+  color:black;
+ width:130px;
+ }
+
